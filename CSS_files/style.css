@@ -1,0 +1,71 @@
+body{
+    background-color: brown;
+}
+/*top section*/
+#top-section{
+    background-color: lightblue;
+    text-align: center;
+}
+h1{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: 'Lilita One', cursive;;
+}
+h3{
+    padding-bottom: 30px;
+    font-family: 'Merriweather', serif;
+}
+#my-image{
+    padding-top: 1rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+#about-me{
+    padding-top: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 3rem;
+}
+/*upper middle section*/
+#upper-mid-section{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: aqua;
+    text-align: center;
+}
+.hobbies{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+/*lower middle section*/
+#lower-mid-section{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: lightcoral;
+    text-align: center;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+.para{
+    padding-bottom: 50px;
+}
+/*lower section*/
+#lower-section{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color:aquamarine;
+    text-align: center;
+}
+/* links */
+#links{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color:yellow;
+    text-align: center;
+}
